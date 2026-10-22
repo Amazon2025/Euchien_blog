@@ -3,6 +3,8 @@ site:
   author: Euchien
   baseURL: http://localhost:1717
   language: zh-CN
+  description: CYQ的博客
+  timezone: Asia/Shanghai
 
 content:
   store: file
