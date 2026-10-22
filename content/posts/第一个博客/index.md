@@ -5,7 +5,7 @@ slug: 第一个博客
 status: draft
 created_at: 2026-10-22T13:22:19Z
 categories:
-  - 未分类
+  - 测试
 tags:
   - The First
 ---
