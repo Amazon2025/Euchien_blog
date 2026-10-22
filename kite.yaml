@@ -1,7 +1,7 @@
 site:
   title: CYQing
   author: Euchien
-  baseURL: http://localhost:1717
+  baseURL: https://amazon2025.github.io/Euchien_blog/
   language: zh-CN
   description: CYQ的博客
   timezone: Asia/Shanghai
