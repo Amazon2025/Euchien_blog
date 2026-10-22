@@ -1,0 +1,16 @@
+site:
+  title: CYQing
+  author: Euchien
+  baseURL: http://localhost:1717
+  language: zh-CN
+
+content:
+  store: file
+  dir: content
+
+build:
+  output: public
+
+publish:
+  ping:
+    - https://explore.kite.plus/api/v1/ping
