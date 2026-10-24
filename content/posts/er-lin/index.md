@@ -2,7 +2,7 @@
 id: 01M5PD9VN38AP3W6984QHK05V8
 title: 二零二六年十月二十四日
 slug: 二零二六年十月
-status: draft
+status: published
 created_at: 2026-10-24T07:34:16Z
 categories:
   - 日记

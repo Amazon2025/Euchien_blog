@@ -6,7 +6,7 @@ name: Deploy
 
 on:
   push:
-    branches: [main]
+    branches: [master]
   workflow_dispatch:
   # scheduled.yml calls this once a scheduled post has fallen due.
   workflow_call:
