@@ -27,3 +27,6 @@ plugins:
       provider: baidu
       baidu_id: 4fb4895590e31fe367655f6372e63b7a
       count_previews: false
+theme:
+  settings:
+    accent: '#a3473b'
