@@ -16,3 +16,8 @@ build:
 publish:
   ping:
     - https://explore.kite.plus/api/v1/ping
+plugins:
+  enabled:
+    - analytics
+    - math
+    - search
