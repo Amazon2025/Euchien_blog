@@ -5,6 +5,8 @@ site:
   language: zh-CN
   description: CYQ的博客
   timezone: Asia/Shanghai
+  keywords:
+    - CYQ
 
 content:
   store: file
