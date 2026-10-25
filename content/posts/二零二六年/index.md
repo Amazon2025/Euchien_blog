@@ -6,6 +6,7 @@ status: draft
 created_at: 2026-10-25T14:45:04Z
 categories:
   - 日记
+cover: false
 ---
 
   今天具体啥也没干
