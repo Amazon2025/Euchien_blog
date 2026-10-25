@@ -2,8 +2,9 @@
 id: 01M5SRBD0B2ZGB7NYZ4T04XWJA
 title: 二零二六年十月二十五日
 slug: 二零二六年十月二十五日
-status: draft
+status: published
 created_at: 2026-10-25T14:45:04Z
+published_at: 2026-10-25T15:55:00Z
 categories:
   - 日记
 cover: false
