@@ -16,6 +16,7 @@ build:
 publish:
   ping:
     - https://explore.kite.plus/api/v1/ping
+
 plugins:
   enabled:
     - analytics
@@ -23,4 +24,6 @@ plugins:
     - search
   settings:
     analytics:
-      baidu_id: <script> var _hmt = _hmt || []; (function() {   var hm = document.createElement("script");   hm.src = "https://hm.baidu.com/hm.js?4fb4895590e31fe367655f6372e63b7a";   var s = document.getElementsByTagName("script")[0];    s.parentNode.insertBefore(hm, s); })(); </script>
+      provider: baidu
+      baidu_id: 4fb4895590e31fe367655f6372e63b7a
+      count_previews: false
