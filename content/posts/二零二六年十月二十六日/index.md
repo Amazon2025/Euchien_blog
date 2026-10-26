@@ -5,8 +5,8 @@ slug: 二零二六年十月二十六日
 status: published
 created_at: 2026-10-26T09:19:11Z
 categories:
-  - 未分类
-published_at: 2026-10-26T15:27:22.695Z
+  - 日记
+published_at: 2026-10-26T15:27:22Z
 ---
 
 今天试着给Kite提交了PR，但是忘了本地make check了，搞不清楚是我先关闭PR，还是先被拒绝合并(┬┬﹏┬┬)，菜还是要多练
