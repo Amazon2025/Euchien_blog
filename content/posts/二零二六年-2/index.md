@@ -6,10 +6,10 @@ status: published
 created_at: 2026-10-28T15:20:36Z
 categories:
   - 日记
-published_at: 2026-10-28T15:24:15.518Z
+published_at: 2026-10-28T15:24:15Z
 ---
 
-今天是试着用Deep Seek改论文，还行吧
+今天试着用Deep Seek改论文，还行吧
 
 ![屏幕截图 2026-10-28 232209](<屏幕截图 2026-10-28 232209.png>)
 
