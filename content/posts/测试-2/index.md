@@ -4,6 +4,8 @@ title: 测试
 slug: 测试-2
 status: published
 created_at: 2026-10-29T06:31:28Z
+categories:
+  - 测试
 ---
 
 测试
