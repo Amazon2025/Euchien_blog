@@ -2,7 +2,7 @@
 id: 01M66JQDCDWR1K9BN95C47T1M4
 title: 二零二六年十月三十日
 slug: 二零二六年十月三十日
-status: draft
+status: published
 created_at: 2026-10-30T14:16:54Z
 categories:
   - 日记
@@ -11,6 +11,7 @@ categories:
 tags:
   - Programing
   - Kite
+published_at: 2026-10-30T14:20:40.964Z
 ---
 
 最近一直忙着给Kite做移动端
