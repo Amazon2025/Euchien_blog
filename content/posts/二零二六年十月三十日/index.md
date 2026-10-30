@@ -2,7 +2,7 @@
 id: 01M66JQDCDWR1K9BN95C47T1M4
 title: 二零二六年十月三十日
 slug: 二零二六年十月三十日
-status: published
+status: draft
 created_at: 2026-10-30T14:16:54Z
 categories:
   - 日记
@@ -21,4 +21,4 @@ tags:
 
 ![1000011109](1000011109.png)
 
-我自己是用着越来越顺手了
+自己是用着越来越顺手了
