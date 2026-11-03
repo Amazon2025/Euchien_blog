@@ -2,13 +2,14 @@
 id: 01M66NA6ZNCYMVKD6T9MF9WN4G
 title: 二零二六年十月三十日
 slug: 二零二六年十月三十日-2
-status: draft
+status: published
 created_at: 2026-10-30T15:02:07Z
 categories:
   - 日记
   - 记录
 tags:
   - Kite
+published_at: 2026-11-03T15:33:03.55Z
 ---
 
 我正式成为了Kite的贡献者
