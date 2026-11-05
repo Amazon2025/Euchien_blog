@@ -9,7 +9,7 @@ categories:
   - 记录
 tags:
   - Kite
-published_at: 2026-11-03T15:33:03.55Z
+published_at: 2026-11-03T15:33:03Z
 ---
 
 我正式成为了Kite的贡献者
