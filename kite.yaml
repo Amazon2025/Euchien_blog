@@ -7,6 +7,7 @@ site:
   timezone: Asia/Shanghai
   keywords:
     - CYQ
+    - Euchien
 
 content:
   store: file
