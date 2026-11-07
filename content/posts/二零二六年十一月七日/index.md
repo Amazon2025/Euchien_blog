@@ -2,10 +2,11 @@
 id: 01M6V7M5QGW6A91JCNJ1WA722R
 title: 二零二六年十一月七日
 slug: 二零二六年十一月七日
-status: draft
+status: published
 created_at: 2026-11-07T14:46:57Z
 categories:
   - 日记
+published_at: 2026-11-07T15:06:36.287Z
 ---
 
 今天是立冬，原本我的生日是在十一月八日，也就是明天，但是由于农历生日是在九月十八，这两天总是一前一后，所以我就挑了个中间的日子过生日。
