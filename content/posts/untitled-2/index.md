@@ -5,7 +5,7 @@ slug: untitled-2
 status: published
 created_at: 2026-11-10T17:12:03Z
 categories:
-  - 未分类
+  - 随笔
 published_at: 2026-11-10T17:12:23Z
 ---
 
